@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dados SINASC (não versionados)
+data/*.dbc
+data/*.dbf
+!data/.gitkeep
