@@ -1,0 +1,7 @@
+pysus>=2.3.0
+pandas>=2.2.0
+dbfread>=2.0.7
+dbc-to-dbf>=1.0.1
+requests>=2.31.0
+geopandas>=1.0.0
+jupyter>=1.0.0
